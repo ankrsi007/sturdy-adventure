@@ -4,11 +4,11 @@
       "id": 1,
       "category": "Category A",
       "status": 0
-    }
-  ],
-  "profile": {
+    },
+    {
       "id": 2,
       "category": "Category B",
       "status": 1
-  }
+    }
+  ]
 }
