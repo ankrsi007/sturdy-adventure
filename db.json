@@ -2,10 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "category": "Category A",
+      "status": 0
     }
   ],
   "profile": {
-    "name": "typicode"
+      "id": 2,
+      "category": "Category B",
+      "status": 1
   }
 }
