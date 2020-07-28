@@ -1,6 +1,9 @@
 {
-  "posts": [
-    {
+  "data": {
+    "count": 0,
+    "next": null,
+    "previous": null,
+    "results": [{
       "id": 1,
       "category": "Category A",
       "status": 0
@@ -9,6 +12,9 @@
       "id": 2,
       "category": "Category B",
       "status": 1
-    }
-  ]
+    }]
+  },
+  "status": "success",
+  "code": 200,
+  "message": [ ]
 }
